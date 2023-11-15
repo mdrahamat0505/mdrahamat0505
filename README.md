@@ -17,6 +17,13 @@
 <a href="https://stackoverflow.com/users/9762717/rahamat">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </a>
+<a href="https://leetcode.com/LoveCodingPartice/">
+    <img src="https://img.shields.io/badge/leetcode-FE7A16?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+<a href="https://www.hackerrank.com/profile/urahamat01">
+    <img src="https://img.shields.io/badge/hackerrank-FE7A16?style=for-the-badge&logo=hackerrank&logoColor=white" />
+</a>
+
 <a href="https://t.me/mdrahamat0505/">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
